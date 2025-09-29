@@ -13,6 +13,6 @@ Edge simulation mode for demoing event ingestion without hardware dependency.
 Accessibility (WCAG), smooth animations, and hackathon-optimized 3-minute demo script.
 Achievements:
 
-🏆 Presented at CUSAT SEDS Ideathon won firat prize for it (Cochin University of Science and Technology).
+🏆 Presented at CUSAT SEDS Ideathon won first prize for it (Cochin University of Science and Technology).
 
 🏆 Participated for Bharatiya Antariksh Hackathon, showcasing its potential in space weather forecasting and power grid resilience
